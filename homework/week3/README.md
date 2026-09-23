@@ -4,10 +4,10 @@
 =============================================
 p | q | Result
 ---------------------------------------------
-True  | True  | False
-True  | False | False
-False | True  | True
-False | False | False
+### True  | True  | False
+### True  | False | False
+### False | True  | True
+### False | False | False
 =============================================
 結論: SATISFIABLE (可滿足)
 可滿足的變數賦值解答：
@@ -18,8 +18,8 @@ False | False | False
 =============================================
 p | Result
 ---------------------------------------------
-True  | False
-False | False
+### True  | False
+### False | False
 =============================================
 結論: UNSATISFIABLE (不可滿足)
 
