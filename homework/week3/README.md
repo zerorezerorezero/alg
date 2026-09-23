@@ -1,5 +1,11 @@
-# 使用AI
-### 目前沒看得很懂
+# 使用[AI](https://share.gemini.google/SF8m8gPHangk)
+## 目前沒看得很懂
+### itertools.product()是內建函式 能直接幫我排列組合
+
+
+
+# 程式輸出結果
+
 測試 1: (p OR q) AND (NOT p)
 =============================================
 p | q | Result
